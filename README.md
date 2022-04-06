@@ -1,5 +1,5 @@
 # The-Pomodoro-Technique-Tool
-Build a timer using tkinter python package to leverage the Pomodoro Technique 
+Build a little timer tool using tkinter python package to leverage the Pomodoro Technique 
 for managing time in 25 min work + 5 min break intervals to increase efficiency.
 
 
